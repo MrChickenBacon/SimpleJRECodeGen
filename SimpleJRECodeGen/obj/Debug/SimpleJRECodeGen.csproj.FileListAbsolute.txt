@@ -1,0 +1,7 @@
+C:\KODING\SimpleJRECodeGen\SimpleJRECodeGen\bin\Debug\SimpleJRECodeGen.exe.config
+C:\KODING\SimpleJRECodeGen\SimpleJRECodeGen\bin\Debug\SimpleJRECodeGen.exe
+C:\KODING\SimpleJRECodeGen\SimpleJRECodeGen\bin\Debug\SimpleJRECodeGen.pdb
+C:\KODING\SimpleJRECodeGen\SimpleJRECodeGen\obj\Debug\SimpleJRECodeGen.csprojAssemblyReference.cache
+C:\KODING\SimpleJRECodeGen\SimpleJRECodeGen\obj\Debug\SimpleJRECodeGen.csproj.CoreCompileInputs.cache
+C:\KODING\SimpleJRECodeGen\SimpleJRECodeGen\obj\Debug\SimpleJRECodeGen.exe
+C:\KODING\SimpleJRECodeGen\SimpleJRECodeGen\obj\Debug\SimpleJRECodeGen.pdb
